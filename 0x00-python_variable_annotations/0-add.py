@@ -6,4 +6,4 @@ float a and a float b as arguments.
 
 def add(a: float, b: float) -> float:
     '''returns the sum'''
-    return a + b
+    return (a + b)
